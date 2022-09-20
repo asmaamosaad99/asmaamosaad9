@@ -7,6 +7,7 @@ To delete a remote branch    git push origin :dev
 to list tags git tag 
 
 to delet local tag   git tag -d v1.7
+
 to delet remot tag   git push origin --delete v1.7
 
 
